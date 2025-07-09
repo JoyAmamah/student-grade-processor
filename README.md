@@ -15,7 +15,7 @@ This is a JavaScript program that calculates the **average grades** of students,
 
 ### Option 1: Replit (No installation needed)
 
-Click to run 👉 [Run on Replit](https://replit.com/@yourusername/grade-calculator)  
+Click to run 👉 [Run on Replit](https://replit.com/@amamahjoy/StudentGradeTracker#cashier.js)  
 > Replace the link above with your actual Replit link
 
 ---
